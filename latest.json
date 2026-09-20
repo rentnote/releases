@@ -3,9 +3,10 @@
     "version": "0.1.1",
     "apkName": "RentNote-v0.1.1-staging.apk",
     "apkUrl": "https://github.com/rentnote/releases/releases/download/v0.1.1-staging/RentNote-v0.1.1-staging.apk",
-    "apkSize": "103 MB",
+    "apkSize": "103.40 MB",
     "releaseTag": "v0.1.1-staging",
-    "updatedAt": "2026-09-20T18:55:00Z"
+    "sha256": "2a19c22a35e5ec8021e2f967ac1e18e1951d079f6211d503f8e1107923bedfa4",
+    "updatedAt": "2026-09-20T13:26:08.066Z"
   },
   "production": {
     "version": "0.1.0",
